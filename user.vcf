@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Gillson;Katrina;;;
-FN: Katrina Gillson
-ORG:KG Sales;
-TITLE:Sales Consultant
-EMAIL;type=INTERNET;type=WORK;type=pref:katrina@kgsales.co.uk
-TEL;type=CELL;type=VOICE:07968186482
-item1.ADR;type=WORK;type=pref:;;Jarvie Cl, Sedgeford, Hunstanton PE36 5NG
+N:Purkiss;Chris;;;
+FN: Chris Purkiss
+ORG:Moore Kingston Smith;
+TITLE:Insolvency Practitioner
+EMAIL;type=INTERNET;type=WORK;type=pref:CPurkiss@mks.co.uk
+TEL;type=CELL;type=VOICE:020 7566 4020
+item1.ADR;type=WORK;type=pref:;;Devonshire House, 60 Goswell Road, London, EC1M 7AD
 item1.X-ABADR:uk
-item2.URL;type=pref:kgsales.co.uk
+item2.URL;type=pref:mooreks.co.uk/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
