@@ -7,7 +7,7 @@ ORG:Moore Kingston Smith;
 TITLE:Insolvency Practitioner
 EMAIL;type=INTERNET;type=WORK;type=pref:CPurkiss@mks.co.uk
 TEL;type=CELL;type=VOICE:020 7566 4020
-item1.ADR;type=WORK;type=pref:;;Devonshire House, 60 Goswell Road, London, EC1M 7AD
+item1.ADR;type=WORK;type=pref:;;9 Appold Street, London, EC2A 2AP
 item1.X-ABADR:uk
 item2.URL;type=pref:mooreks.co.uk/
 item2.X-ABLabel:_$!<HomePage>!$_
